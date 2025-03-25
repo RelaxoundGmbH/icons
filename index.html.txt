@@ -1,0 +1,13 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Relaxound Github Assets Page</title>
+</head>
+<body>
+  <h1>Assets</h1>
+  <img src="assets/1prcntftwicon.png" alt="1prcntftwicon.png">
+  <img src="assets/Facebook Icon.png" alt="Facebook Icon.png">
+  <img src="assets/Insta Icon.png" alt="Insta Icon.png">
+</body>
+</html>
